@@ -1,13 +1,13 @@
 Hi 👋 My name is Luan Araujo
 ============================
 
-IT Analyst
+Test Developer
 ----------
 
 * 🌍  I'm based in Manaus
 * ✉️  You can contact me at [luan77312477@gmail.com](mailto:luan77312477@gmail.com)
 * 🚀  I'm currently working on [Watch TV Entretenimento](http://watch.tv.br)
-* 🧠  I'm learning Amazon Web Services
+* 🧠  I'm learning Cypress.io
 
 ### Skills
 
