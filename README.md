@@ -1,7 +1,7 @@
 Hi 👋 My name is Luan Araujo
 ============================
 
-Test Developer
+Test & Dev
 ----------
 
 * 🌍  I'm based in Manaus
